@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/RoboFriends/static/css/main.736f287e.chunk.css",
-    "main.js": "/RoboFriends/static/js/main.1f7dea86.chunk.js",
-    "main.js.map": "/RoboFriends/static/js/main.1f7dea86.chunk.js.map",
+    "main.js": "/RoboFriends/static/js/main.f3ff534d.chunk.js",
+    "main.js.map": "/RoboFriends/static/js/main.f3ff534d.chunk.js.map",
     "runtime-main.js": "/RoboFriends/static/js/runtime-main.44ff85bc.js",
     "runtime-main.js.map": "/RoboFriends/static/js/runtime-main.44ff85bc.js.map",
     "static/css/2.b97b5188.chunk.css": "/RoboFriends/static/css/2.b97b5188.chunk.css",
-    "static/js/2.e65f15e6.chunk.js": "/RoboFriends/static/js/2.e65f15e6.chunk.js",
-    "static/js/2.e65f15e6.chunk.js.map": "/RoboFriends/static/js/2.e65f15e6.chunk.js.map",
+    "static/js/2.79b53229.chunk.js": "/RoboFriends/static/js/2.79b53229.chunk.js",
+    "static/js/2.79b53229.chunk.js.map": "/RoboFriends/static/js/2.79b53229.chunk.js.map",
     "static/js/3.f35a1111.chunk.js": "/RoboFriends/static/js/3.f35a1111.chunk.js",
     "static/js/3.f35a1111.chunk.js.map": "/RoboFriends/static/js/3.f35a1111.chunk.js.map",
     "index.html": "/RoboFriends/index.html",
     "static/css/2.b97b5188.chunk.css.map": "/RoboFriends/static/css/2.b97b5188.chunk.css.map",
     "static/css/main.736f287e.chunk.css.map": "/RoboFriends/static/css/main.736f287e.chunk.css.map",
-    "static/js/2.e65f15e6.chunk.js.LICENSE.txt": "/RoboFriends/static/js/2.e65f15e6.chunk.js.LICENSE.txt",
+    "static/js/2.79b53229.chunk.js.LICENSE.txt": "/RoboFriends/static/js/2.79b53229.chunk.js.LICENSE.txt",
     "static/media/App.css": "/RoboFriends/static/media/Pokemon Solid.60e347c9.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.44ff85bc.js",
     "static/css/2.b97b5188.chunk.css",
-    "static/js/2.e65f15e6.chunk.js",
+    "static/js/2.79b53229.chunk.js",
     "static/css/main.736f287e.chunk.css",
-    "static/js/main.1f7dea86.chunk.js"
+    "static/js/main.f3ff534d.chunk.js"
   ]
 }
